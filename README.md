@@ -4,7 +4,7 @@ Login Page
 Chat Page
 ![2-chat](https://github.com/user-attachments/assets/dd6f4073-a3bd-4546-a96a-f9001bc3dadb)
 
-Sending image and voic messages
+Sending Image and Voic Messages
 ![7-görsel ve ses gönderimi](https://github.com/user-attachments/assets/488b8a8c-2bf5-4340-997d-a2c8b01ad051)
 
 View Users in The Room From The User Screen
